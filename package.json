@@ -1,0 +1,19 @@
+{
+  "name": "ts-gqa-trainee-prescreen-task",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerovnia/TS-GQA-Trainee-Prescreen-task.git"
+  },
+  "author": "Volodymyr Nerovnia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerovnia/TS-GQA-Trainee-Prescreen-task/issues"
+  },
+  "homepage": "https://github.com/nerovnia/TS-GQA-Trainee-Prescreen-task#readme"
+}
