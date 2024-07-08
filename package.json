@@ -2,8 +2,11 @@
   "name": "ts-gqa-trainee-prescreen-task",
   "version": "0.0.1",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nerovnia/TS-GQA-Trainee-Prescreen-task/issues"
   },
-  "homepage": "https://github.com/nerovnia/TS-GQA-Trainee-Prescreen-task#readme"
+  "homepage": "https://github.com/nerovnia/TS-GQA-Trainee-Prescreen-task#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
